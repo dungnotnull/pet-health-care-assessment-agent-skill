@@ -1,0 +1,20 @@
+# Python requirements for pet-health-care-assessment knowledge pipeline
+# Install with: pip install -r requirements.txt
+
+# Web crawling
+crawl4ai>=0.2.0
+
+# HTTP requests
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+
+# Academic paper fetching
+arxiv>=2.1.0
+
+# Data handling
+pandas>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.0
